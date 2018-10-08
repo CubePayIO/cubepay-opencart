@@ -10,7 +10,7 @@ More information at http://cubepay.io.
 https://document.cubepay.io
 
 ## Installation
-- Download the zip file from release, make sure the file is named as  "cuepay.ocmod.zip"
+- Download the zip file from release, make sure the file is named as  "cubepay.ocmod.zip"
 - Open Opencart Admin panel and login as Admin
 - Click Extensions -> Extension Installer
 - Upload the zip file and click "Continue"
