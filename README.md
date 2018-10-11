@@ -1,4 +1,4 @@
-# CubePay payment gateway extension for Opencart 
+# CubePay payment gateway extension for Opencart 3.0
 
 Make it easy for receiving cryptocurrency!
 
